@@ -1,11 +1,5 @@
 <?php
 //DB wrapper functions
-
-/*function dbConnect($host, $user, $pword, $name){
-    mysql_connect($host, $user, $pword);
-    mysql_select_db($name);
-}*/
-
 function executeQuery($query, $PDODB){
     return $PDODB->query($query);   
 }

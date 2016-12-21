@@ -1,6 +1,6 @@
 <?php 
 include("lib/Config.php");
-$commonFilePath = $_SERVER['DOCUMENT_ROOT']."/wglpolice/lib/functions/Common.php";
+$commonFilePath = $_SERVER['DOCUMENT_ROOT']."/PoliceDepartment/lib/functions/Common.php";
 include ($commonFilePath);
 
 checkadminlogin();
