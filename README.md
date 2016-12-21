@@ -3,7 +3,7 @@ I used html, php, javascript, ajax, jquery, mysql, css.
 This is not the latest version.
 I am unable to include the latest version because my company dinied access to the latest version.
 This is just a prototype.
-I worked 3 days on it to add some features like PDO(PHP Data Objects) and table paginations. 
+I worked past 3 days from date 21-Dec-2016 on it to add some features like PDO(PHP Data Objects) and table paginations. 
 I added this project to repository just to showcase my php skills.
 Application will create only one PDO object and one session object for each user.
 I used PDO's to minimise the risk of sql injections and cross side scripting.
