@@ -209,16 +209,15 @@ $rec=getAssoc($sel, $PDODB);
                                     <td><?php echo $value['ps_name'];?></td>
 									<td>
 										
-										 <a href="addstation.php?action=edit&id=<?php echo $value['id'];?>" title="Edit"><img src="images/icons/middlenav/pencil.png" width="18" alt="Edit" /></a> &nbsp;&nbsp;
+										 <a  href="addstation.php?action=edit&id=<?php echo $value['id']; ?>" title="Edit"><img src="images/icons/middlenav/pencil.png" width="18" alt="Edit" /></a> &nbsp;&nbsp;
 										 <a href="addstation.php?action=delete&id=<?php echo $value['id'];?>" onClick="return confirm('Are you sure you want to delete ?')" title="Delete"><img width="18" src="images/icons/middlenav/denied.png" alt="Delete" /></a>
 										 
 										
 									</td>
                     </tr>
-                 <?php $sno++;}?>
-                   
+                 <?php $sno++;}?>		
                 </tbody>
-            </table>
+				</table>
             <a href="addstation.php?action=addnew" title="" class="btnIconLeft mr10 mt5"><img src="images/icons/dark/adminUser.png" alt="" class="icon" /><span>Add Users</span></a>
         </div>
         <?Php }?>     
