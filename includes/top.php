@@ -22,8 +22,7 @@ checkadminlogin();
 <script type="text/javascript" src="js/pagenation.js"></script>
 <script type="text/javascript" src="js/spinner/jquery.mousewheel.js"></script>
 <script type="text/javascript" src="js/spinner/ui.spinner.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script> 
-
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
 <script type="text/javascript" src="js/fileManager/elfinder.min.js"></script>
 <script type="text/javascript" src="js/flot/jquery.flot.js"></script>
 <script type="text/javascript" src="js/flot/jquery.flot.pie.js"></script>
