@@ -5,7 +5,7 @@ session_start();
 //database parameters
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PWORD', '');
+define('DB_PWORD', 'root123');
 define('DB_NAME', 'police');
 
 //don't disturb the following lines
